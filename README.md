@@ -1,2 +1,2 @@
 # My-todo-list
-this is a to do list
+This is a simple website that i created using HTML, CSS and JavaScript.
